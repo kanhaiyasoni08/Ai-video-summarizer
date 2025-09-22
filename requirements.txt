@@ -1,0 +1,10 @@
+streamlit
+moviepy
+librosa
+soundfile
+torch
+transformers
+google-genai
+pillow
+opencv-python
+easyocr
